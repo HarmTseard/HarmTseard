@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarmTseard
 - 👀 I’m interested in the application of Linked Open Data techniques in the field of history and cultural heritage
-- 📫 You can reach me at h.t.nijboer@uva.nl
+- 📫 You can reach me at harm.nijboer@huygens.knaw.nl
 
 <!---
 HarmTseard/HarmTseard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
